@@ -1,0 +1,19 @@
+{
+  "platform": "android",
+  "appName": "DAVID",
+  "packageId": "id.david.packingproof",
+  "versionName": "1.2.9",
+  "versionCode": 129,
+  "apkUrl": "https://github.com/DfaundaTolls/david-android-updates/releases/download/v1.2.9/DAVID-v1.2.9-release.apk",
+  "releasePageUrl": "https://github.com/DfaundaTolls/david-android-updates/releases/tag/v1.2.9",
+  "forceUpdate": false,
+  "notes": [
+    "Release resmi pertama DAVID Android.",
+    "Fitur lisensi device aktif.",
+    "Reset lisensi dihapus dari aplikasi.",
+    "Update DAVID via GitHub sudah tersedia.",
+    "Perbaikan kamera, lokasi, layout rekam, dan hasil video."
+  ],
+  "minSupportedVersionCode": 129,
+  "publishedAt": "2026-06-21"
+}
