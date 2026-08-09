@@ -2,14 +2,17 @@
   "platform": "android",
   "appName": "DAVID",
   "packageId": "id.david.packingproof",
-  "versionName": "1.3.0",
-  "versionCode": 130,
-  "apkUrl": "https://github.com/DfaundaTolls/david-android-updates/releases/download/v1.3.0/DAVID-v1.3.0-release.apk",
-  "releasePageUrl": "https://github.com/DfaundaTolls/david-android-updates/releases/tag/v1.3.0",
+  "versionName": "1.3.1",
+  "versionCode": 131,
+  "apkUrl": "https://github.com/DfaundaTolls/david-android-updates/releases/download/v1.3.1/DAVID-v1.3.1-release.apk",
+  "releasePageUrl": "https://github.com/DfaundaTolls/david-android-updates/releases/tag/v1.3.1",
   "forceUpdate": false,
   "notes": [
-    "Perbaikan deteksi resi J&T Express (prefix JY) untuk platform TikTok Shop."
+    "Memperbaiki tampilan versi aplikasi setelah update.",
+    "Memperbaiki pilihan nama toko agar toko yang dipilih tetap aktif.",
+    "Memperbaiki fitur share video.",
+    "Menambahkan fitur simpan/download video ke perangkat."
   ],
   "minSupportedVersionCode": 129,
-  "publishedAt": "2026-07-21"
+  "publishedAt": "2026-08-09"
 }
