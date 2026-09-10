@@ -5,10 +5,10 @@ Repository ini khusus untuk distribusi update DAVID Android.
 ## Baseline Production
 - App: DAVID
 - Package ID: id.david.packingproof
-- Version: 1.3.1
-- Version Code: 131
+- Version: 1.3.3
+- Version Code: 133
 - Metadata updater: version.json
-- Release APK: DAVID-v1.3.1-release.apk
+- Release APK: DAVID-v1.3.3-release.apk
 
 ## Fungsi Repository
 - Menyimpan version.json yang dibaca oleh aplikasi DAVID.

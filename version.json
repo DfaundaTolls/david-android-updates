@@ -2,16 +2,17 @@
   "platform": "android",
   "appName": "DAVID",
   "packageId": "id.david.packingproof",
-  "versionName": "1.3.2",
-  "versionCode": 132,
-  "apkUrl": "https://github.com/DfaundaTolls/david-android-updates/releases/download/v1.3.2/DAVID-v1.3.2-release.apk",
-  "releasePageUrl": "https://github.com/DfaundaTolls/david-android-updates/releases/tag/v1.3.2",
+  "versionName": "1.3.3",
+  "versionCode": 133,
+  "apkUrl": "https://github.com/DfaundaTolls/david-android-updates/releases/download/v1.3.3/DAVID-v1.3.3-release.apk",
+  "releasePageUrl": "https://github.com/DfaundaTolls/david-android-updates/releases/tag/v1.3.3",
   "forceUpdate": false,
   "notes": [
-    "Menambahkan dukungan resi JNE Shopee dengan format awalan CM.",
-    "Memperbaiki pemilihan resi pada label yang memiliki beberapa barcode.",
-    "Mencegah barcode nomor pesanan terbaca sebagai nomor resi."
+    "Menambahkan fallback offline Code 128 dan QR untuk Android WebView tanpa BarcodeDetector.",
+    "Mendukung JNE Shopee CM, Shopee Instant/Sameday, dan JNE TikTok TG.",
+    "Meningkatkan pembacaan label buram dengan crop dan upscale berkala.",
+    "Menjaga nomor pesanan biasa tetap ditolak dan scan kedua wajib cocok."
   ],
   "minSupportedVersionCode": 129,
-  "publishedAt": "2026-09-01"
+  "publishedAt": "2026-09-10"
 }
